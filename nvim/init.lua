@@ -38,6 +38,7 @@ opt.cmdheight = 0
 
 opt.fillchars = [[eob: ,fold: ,foldopen:,foldsep: ,foldclose:]]
 opt.colorcolumn = '100'
+opt.termguicolors = false
 
 -- Configure Neovim diagnostic messages
 
